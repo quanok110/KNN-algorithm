@@ -1,5 +1,6 @@
 '''
 find NN in kd tree
+haha
 '''
 
 def findNN(root,query)
